@@ -6,7 +6,7 @@ Bem-vindo ao AluraBooks! Este é um lugar onde compartilhamos ideias, projetos e
 
 O design do meu site é único e atraente, com cores vibrantes e uma disposição cuidadosa para proporcionar uma experiência visualmente agradável aos visitantes.
 
-![Screenshot do Site](./imagem/smartphone.svg)
+![Screenshot do Site](./imagem/ptint.png)
 
 ## Como Visualizar
 
